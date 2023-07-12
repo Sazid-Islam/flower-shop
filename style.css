@@ -143,6 +143,7 @@ body {
 
 .first-pink-head {
     align-items: center;
+    text-decoration: underline;
 }
 
 /* hot-deal style */
@@ -295,6 +296,3 @@ body {
     color: #E55473 ;
 }
 
-.flower-images, .delivery, .instagram-p, .flower-desingn{
-    /* align-items: center; */
-}
